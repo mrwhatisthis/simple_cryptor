@@ -1,0 +1,19 @@
+Course work of Nure student Stetsyk Demian
+
+Welcome, User.
+This program implements three cipher algorithms (RSA, Vigenere, Gronsfeld).
+Select start to encrypt or decrypt message or file.
+Select KeyGen to generate RSA key. 
+
+!!!Program support only english language!!!
+
+Program output stores in output.txt in program directory.
+
+Navigate into menu using arrow keys. Press enter to select menu item or
+escape to return in previous menu. 
+
+If you want to use Vigenere or Gronsfeld cipher, you have to input key
+manually.
+If you input key or data from non existing file program will use last
+key or data.
+
